@@ -15,5 +15,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Product\" />
+    <Folder Include="bin\Debug\net6.0\" />
   </ItemGroup>
 </Project>
